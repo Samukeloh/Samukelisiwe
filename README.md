@@ -5,5 +5,5 @@ Label-Color
 https://IMG.shields.io/badge/LinkedIn-blue
 logo={your social network icon name}
 logoColor={color of the icon}
-https://IMG.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logo color=white
-https://IMG.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logo color=white&style=for-the-badge
+https://IMG.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white
+https://IMG.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badge
