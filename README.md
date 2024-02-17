@@ -13,11 +13,11 @@
 <div id="badge">
 <IMG SRC="https://komarev.com/ghpvc/? username=Samukelisiwesibisi494@gmail.com&style=flat-square&color=blue" alt=""/>
 
-<body>
+<body><b>
     hey there
 <IMG SRC="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-</body>
+</b></body>
 
 
 <div align="center">
