@@ -32,7 +32,7 @@
 I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and penchant of technology <img SRC="https://media.giphy.com/media/WU1p1cMpoCEmTGBtBW/giphy.gif" width="30"> 
 
 
-- : I'm currently learning 
+- : smilingemoji: I'm currently learning 
 
 - :seedling: In my downtime I explore new technologies,read tech blogs and solve problems on W3 school.
 
