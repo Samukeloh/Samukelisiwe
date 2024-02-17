@@ -11,7 +11,7 @@
 </a>
 
 <div>
- id="badge"
+ <id="badge">
 <IMG SRC="https://komarev.com/ghpvc/? username=Samukeloh&style=flat-square&color=blue" alt=""/>
 
 <h1>
