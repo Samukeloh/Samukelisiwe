@@ -13,3 +13,6 @@
 <div id="badge">
 <IMG SRC="https://komarev.com/ghpvc/? username=Samukeloh&style=flat-square&color=blue" alt=""/>
 
+<h1>
+hey there
+<IMG SRC="https://media.giphy.com/media/hvRJLFzcasrR4ia7z/Giphy.gif" width="30px"/>
