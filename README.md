@@ -36,4 +36,5 @@ I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and pen
 
 - :seedling: In my downtime I explore new technologies,read tech blogs and solve problems on W3 school.
 
-- :mailbox:How to reach me:  Samukelisiwesibisi494@gmail.com.
+- :mailbox:How to reach me:   Samukelisiwesibisi494@gmail.com.
+[![LinkedIn Badge](https://IMG.shields.io/badge/-kakbar-blue?style=flat&logo=LinkedIn&logo color=white)](https://www.linkedin.com/in/samukelisiwe-sibisi-5425bb22a)
