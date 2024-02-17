@@ -28,3 +28,5 @@
 ---
 
 ### :woman_technologist: About Me :
+
+I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and penchant of technology <img SRC="https://media.giphy.com/media/WU1p1cMpoCEmTGBtBW/giphy.gif" width="30"> 
