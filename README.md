@@ -14,5 +14,7 @@
 <IMG SRC="https://komarev.com/ghpvc/? username=Samukelisiwesibisi494@gmail.com&style=flat-square&color=blue" alt=""/>
 
 <h1>
-hey there
-<IMG SRC="https://media.giphy.com/media/hvRJLFzcasrR4ia7z/Giphy.gif" width="30px"/>
+    hey there
+<IMG SRC="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+</h>
