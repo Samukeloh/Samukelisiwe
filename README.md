@@ -36,4 +36,4 @@ I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and pen
 
 - :
 
-- : In my downtime I explore new technologies,read tech blogs and solve problems on W3 school.
+- :seeding: In my downtime I explore new technologies,read tech blogs and solve problems on W3 school.
