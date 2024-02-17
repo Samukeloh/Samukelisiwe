@@ -3,6 +3,11 @@
 </div>
 
 <div id="badges">
+<a href="your-linkedin-URL">
 <IMG SRC="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logo color=white" alt=LinkedIn Badge"/>
+</a>
+<a href="your-Facebook-URL">
 <IMG SRC="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logo color=white" alt=Facebook Badge"/>
+</a>
+
 
