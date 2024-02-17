@@ -23,3 +23,8 @@
 <div align="center">
   <IMG SRC="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
 </div>
+
+
+---
+
+### :woman_technologist: About Me :
