@@ -1,5 +1,5 @@
-
-<IMG SRC="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
+div id="header" align="center">
+<IMG SRC="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
 </div>
 
 <div id="badges">
