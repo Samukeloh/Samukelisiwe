@@ -38,3 +38,7 @@ I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and pen
 
 - :mailbox:How to reach me: Samukelisiwesibisi494@gmail.com.
 [![LinkedIn Badge](https://IMG.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samukelisiwe-sibisi-5425bb22a)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
