@@ -42,3 +42,6 @@ I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and pen
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <IMG SRC="https://GitHub.com/devicons/devicon/blob/master/icons/react-original-wordmark.svg" titles="react" alt="react" width="40" height="40"/>&nbsp;
