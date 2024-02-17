@@ -32,9 +32,9 @@
 I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and penchant of technology <img SRC="https://media.giphy.com/media/WU1p1cMpoCEmTGBtBW/giphy.gif" width="30"> 
 
 
-- : I'm currently leaning 
+- : I'm currently learning 
 
 - :seedling: In my downtime I explore new technologies,read tech blogs and solve problems on W3 school.
 
 - :mailbox:How to reach me: Samukelisiwesibisi494@gmail.com.
-[![LinkedIn Badge](https://IMG.shields.io/badge/-kakbar-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samukelisiwe-sibisi-5425bb22a)
+[![LinkedIn Badge](https://IMG.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samukelisiwe-sibisi-5425bb22a)
