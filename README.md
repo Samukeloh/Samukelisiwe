@@ -10,7 +10,8 @@
 <IMG SRC="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logo color=white" alt=Facebook Badge"/>
 </a>
 
-<div id="badge">
+<div>
+ id="badge"
 <IMG SRC="https://komarev.com/ghpvc/? username=Samukeloh&style=flat-square&color=blue" alt=""/>
 
 <h1>
