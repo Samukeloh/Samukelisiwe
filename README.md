@@ -54,4 +54,6 @@ I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and pen
 
 <IMG SRC="https://gitHub.com/devicons/devicon/blob/master/icons/CSS/CSS-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 
-<IMG SRC="https://gitHub.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<IMG SRC="https://gitHub.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+
+</div>
