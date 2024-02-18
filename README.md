@@ -44,4 +44,14 @@ I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and pen
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <IMG SRC="https://gitHub.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>
+  <IMG SRC="https://gitHub.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+
+
+<IMG SRC="https://gitHub.com/devicons/devicon/blob/master/icons/JavaScript/JavaScript-original-wordmark.svg" title="JavaScript" alt="react" width="40" height="40"/>&nbsp;
+
+
+<IMG SRC="https://gitHub.com/devicons/devicon/blob/master/icons/HTML/HTML-original-wordmark.svg" title="HTML5" alt="react" width="40" height="40"/>&nbsp;
+
+<IMG SRC="https://gitHub.com/devicons/devicon/blob/master/icons/CSS/CSS-original-wordmark.svg" title="CSS3" alt="react" width="40" height="40"/>&nbsp;
+
+IMG SRC="https://gitHub.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="react" width="40" height="40"/>&nbsp;
