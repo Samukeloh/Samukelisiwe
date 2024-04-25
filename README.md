@@ -45,7 +45,7 @@ I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and pen
 
 <div>
   <img src="https://gitHub.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src='icons/python/python-original.svg' title="python" alt="Python" width="40" height="40"/>
+  <img src='https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg?plain=1' title="python" alt="Python" width="40" height="40"/>
 
 
 </div>
