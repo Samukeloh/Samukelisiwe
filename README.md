@@ -44,8 +44,8 @@ I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and pen
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://gitHub.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-
+  <img src="https://gitHub.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src='icons/python/python-original.svg' title="python" alt="Python" width="40" height="40"/>
 
 
 </div>
