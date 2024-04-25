@@ -50,13 +50,9 @@ I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and pen
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-plain.svg?plain=1" title="java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg?plain=1" title="CCS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg?plain=1" title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain-wordmark.svg?plain=1" title="djando" alt="DJANGO" width="40" height="40"/>
-
-
-
-
-
-
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain-wordmark.svg?plain=1" title="djando" alt="DJANGO" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pycharm/pycharm-plain-wordmark.svg?plain=1" title="pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg?plain=1"title="visualstudio" alt="VisualStudio" width="40" height="40"/>
 
 
 
