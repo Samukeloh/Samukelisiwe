@@ -44,8 +44,22 @@ I am Samukelisiwe Sibisi An IT Graduate with a knack for problem-solving and pen
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://gitHub.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg?plain=1" title="javascript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg?plain=1' title="python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg?plain=1" title="html" alt="HTML" width="40$ height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg?plain=1" title="html" alt="HTML" width="40$ height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-plain.svg?plain=1" title="java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg?plain=1" title="CCS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg?plain=1" title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain-wordmark.svg?plain=1" title="djando" alt="DJANGO" width="40" height="40"/>
 
+
+
+
+
+
+
+
+
+
+    
 </div>
